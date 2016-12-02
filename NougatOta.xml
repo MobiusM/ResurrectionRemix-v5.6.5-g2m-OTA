@@ -6,15 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from basketbuild">https://basketbuild.com/devs/resurrectionremix/g2m</RomUrl>
-                <Rom2Url
-                id="rom2"
-                title="Alternative link"
-                description="Download latest ResurrectionRemix build from AndroidFileHost">https://www.androidfilehost.com/?w=files&amp;flid=52470</Rom2Url>
-                <KernelUrl
-                id="kernel"
-                title="Kernel"
-                description="Download Marshmallow kernel">https://www.androidfilehost.com/?fid=24591000424950212</KernelUrl>
+                description="Download latest ResurrectionRemix build from basketbuild">https://www.androidfilehost.com/?w=files&amp;flid=132865</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -22,11 +14,11 @@
             <OpenGappsUrl
             	id="gapps"
             	title="Gapps"
-            	description="Download the latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+            	description="Download the latest Open Gapps">http://opengapps.org/</OpenGappsUrl>
 	    <XDAUrl
                 id="xda"
                 title="XDA Thread"
-                description="Visit the XDA thread!">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-v5-6-5-t3339903</XDAUrl>
+                description="Visit the XDA thread!">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-t3511653</XDAUrl>
 	</g2m>
     </Stable>
     <Stable>
