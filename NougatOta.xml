@@ -6,7 +6,11 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132865</RomUrl>
+                description="Download latest ResurrectionRemix build from official server">http://downloads.resurrectionremix.com/g2m/Nougat/</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132865</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -27,7 +31,11 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132855</RomUrl>
+                description="Download latest ResurrectionRemix build from official server">http://downloads.resurrectionremix.com/jag3gds/Nougat/</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132855</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -48,7 +56,11 @@
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132853</RomUrl>
+                description="Download latest ResurrectionRemix build from official server">http://downloads.resurrectionremix.com/jagnm/Nougat/</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132853</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
