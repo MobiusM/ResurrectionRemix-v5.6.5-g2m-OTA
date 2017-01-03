@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <g2m>
-            <Filename>RR-N-v5.8.0-20160102-g2m-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20160103-g2m-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -14,7 +14,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">http://downloads.resurrectionremix.com/g2m/Nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
             	id="gapps"
             	title="Gapps"
@@ -27,7 +27,7 @@
     </Stable>
     <Stable>
         <jag3gds>
-            <Filename>RR-N-v5.8.0-20160102-jag3gds-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20160103-jag3gds-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -39,7 +39,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">http://downloads.resurrectionremix.com/jag3gds/Nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
             	id="gapps"
             	title="Gapps"
@@ -52,7 +52,7 @@
     </Stable>
     <Stable>
         <jagnm>
-            <Filename>RR-N-v5.8.0-20160102-jagnm-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20160103-jagnm-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -64,7 +64,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+                description="View Changelog">http://downloads.resurrectionremix.com/jagnm/Nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
             	id="gapps"
             	title="Gapps"
