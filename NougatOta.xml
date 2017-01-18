@@ -10,7 +10,7 @@
             <RomAltUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132865</RomAltUrl>
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/g2m/Nougat/</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -35,7 +35,7 @@
             <RomAltUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132855</RomAltUrl>
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/jag3gds/Nougat/</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -60,7 +60,7 @@
             <RomAltUrl
                 id="rom"
                 title="Rom"
-                description="Download latest ResurrectionRemix build from Android File Host">https://www.androidfilehost.com/?w=files&amp;flid=132853</RomAltUrl>
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/jagnm/Nougat/</RomAltUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
