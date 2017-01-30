@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <g2m>
+            <Filename>RR-N-v5.8.0-20170130-g2m-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from official server">http://bit.ly/rr-g2m</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/g2m/Nougat/</RomAltUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">http://downloads.resurrectionremix.com/g2m/Nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download the latest Open Gapps">http://opengapps.org/</OpenGappsUrl>
+	    <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit the XDA thread!">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-t3511653</XDAUrl>
+	</g2m>
+    </Stable>
+    <Stable>
+        <jag3gds>
+            <Filename>RR-N-v5.8.0-20170130-jag3gds-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from official server">http://bit.ly/rr-jag3gds</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/jag3gds/Nougat/</RomAltUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">http://downloads.resurrectionremix.com/jag3gds/Nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download the latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+	    <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit the XDA thread!">http://forum.xda-developers.com/lg-g3/development/rom-resurrection-remix-t3511706</XDAUrl>
+	</jag3gds>
+    </Stable>
+    <Stable>
+        <jagnm>
+            <Filename>RR-N-v5.8.0-20170130-jagnm-OFFICIAL.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from official server">http://bit.ly/rr-jagnm</RomUrl>
+            <RomAltUrl
+                id="rom"
+                title="Rom"
+                description="Download latest ResurrectionRemix build from SourceForge">https://sourceforge.net/projects/resurrectionremix/files/jagnm/Nougat/</RomAltUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">http://downloads.resurrectionremix.com/jagnm/Nougat/CHANGELOG.mkdn</ChangelogUrl>
+            <OpenGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download the latest Open GApps">http://opengapps.org/</OpenGappsUrl>
+	    <XDAUrl
+                id="xda"
+                title="XDA Thread"
+                description="Visit the XDA thread!">http://forum.xda-developers.com/lg-g3/development/rom-resurrection-remix-t3511706</XDAUrl>
+	</jagnm>
+    </Stable>
+</SlimOTA>
