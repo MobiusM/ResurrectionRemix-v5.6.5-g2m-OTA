@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <g2m>
-            <Filename>RR-N-v5.8.0-20170128-g2m-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20170130-g2m-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -27,7 +27,7 @@
     </Stable>
     <Stable>
         <jag3gds>
-            <Filename>RR-N-v5.8.0-20170128-jag3gds-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20170130-jag3gds-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
@@ -52,7 +52,7 @@
     </Stable>
     <Stable>
         <jagnm>
-            <Filename>RR-N-v5.8.0-20170128-jagnm-OFFICIAL.zip</Filename>
+            <Filename>RR-N-v5.8.0-20170130-jagnm-OFFICIAL.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
