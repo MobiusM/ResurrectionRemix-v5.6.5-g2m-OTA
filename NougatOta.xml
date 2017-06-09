@@ -23,6 +23,10 @@
                 id="xda"
                 title="XDA Thread"
                 description="Visit the XDA thread!">http://forum.xda-developers.com/g2-mini/development/rom-resurrection-remix-t3511653</XDAUrl>
+	    <Donate
+                id="donate"
+                title="Donation"
+                description="Donate to MobiusM">https://www.paypal.me/MobiusM</Donate>
 	</g2m>
     </Stable>
     <Stable>
